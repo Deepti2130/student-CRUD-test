@@ -1,0 +1,12 @@
+:root{
+    --primary-color:#373b69;
+    --color-dark:#000;
+    --color-white:#fff;
+}
+
+body{
+    background-image:url(../../assets/images/bg-img.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
